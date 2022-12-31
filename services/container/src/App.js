@@ -7,7 +7,7 @@ console.log(mount);
 export default () => {
   return (
     <>
-      <h1>Hi there</h1>
+      <h1>Hi there test workflow</h1>
       <MarketingApp />
     </>
   );
